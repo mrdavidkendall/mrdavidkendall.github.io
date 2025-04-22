@@ -1,6 +1,4 @@
-# https://github.com/pages-themes/architect
-
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: mmistakes/minimal-mistakes
 plugins:
 - jekyll-remote-theme
 
