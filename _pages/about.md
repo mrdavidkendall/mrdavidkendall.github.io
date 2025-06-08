@@ -3,8 +3,7 @@ permalink: /about/
 title: "About Dave"
 ---
 
-# About Dave
-Things I value and strive to be good at:
+### Things I appreciate and strive to be good at:
 * finding simplicity
 * seeing the big picture
 * attention to detail
@@ -12,13 +11,13 @@ Things I value and strive to be good at:
 * taking small steps
 * tenacity
 
-# Things I love
+### Things I love
 * going out to lunch
 * being outdoors
 * understanding how things work
 * traveling to new places
 
-# My brief history
+### My brief history
 * Born, raised and currently reside in Nebraska.
 * Served 8 years in the Nebraska Army National Guard.
 * Been writing code for 40 years.
