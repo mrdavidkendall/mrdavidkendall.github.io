@@ -16,7 +16,7 @@
 title: mrdavidkendall
 email: mrdavidkendall@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog of David Kendall. All thoughts are my own and typically aren't strongly held beliefs.
+  Personal blog of David Kendall. All thoughts here are intended to be my own opinions and will change as a learn.
 twitter_username: mrdavidkendall
 github_username: mrdavidkendall
 minimal_mistakes_skin: default
@@ -60,22 +60,22 @@ author:
   avatar : "/assets/images/logo.png"
   bio    : "I'm a tech enthusiast. Born and raised in Omaha, Nebraska. Also a cyborg."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mrdavidkendall"
-    - label: ""
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mrdavidkendall"
-    - label: ""
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mrdavidkendall"
-    - label: ""
+    - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/mrdavidkendall.bsky.social"
-    - label: ""
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/mrdavidkendall"
 
@@ -90,6 +90,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mrdavidkendall"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/mrdavidkendall.bsky.social"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/mrdavidkendall"
 
 defaults:
   # _posts
