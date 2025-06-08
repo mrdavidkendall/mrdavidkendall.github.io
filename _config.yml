@@ -66,12 +66,18 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mrdavidkendall"
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mrdavidkendall"
-    - label: "Instagram"
+    - label: ""
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mrdavidkendall"
+    - label: ""
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/mrdavidkendall.bsky.social"
+    - label: ""
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/mrdavidkendall"
 
 footer:
   links:
